@@ -32,7 +32,7 @@ public class Delete {
 	    		    }
 	    	}
 	    }else {
-		          System.out.println();
+		          System.out.println("No person in this id");
 	           }
 }
 }
